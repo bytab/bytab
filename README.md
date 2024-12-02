@@ -5,6 +5,8 @@
 - 📫 How to reach me: You can contact me via my LinkedIn or email.
 - 😄 Pronouns: He
 - ⚡ Fun fact: I’m an IT handyman, always ready to solve any tech challenge!
+```bash
+
 #Core Skills
 |---------------------------------------------------------------------------------------------------
 | Hardware - [Arduino, Raspberry Pi, NVIDIA Jetson, ATmega, ESP32, STM32, ARM Cortex-M ]
@@ -22,7 +24,7 @@
 | Marketing - [Google Ads, YandexB-D, Digital Marketing, Content Creation, SEO, Email Marketing, Analytics, Branding, Market Research]
 #Additional skills
 UI/UX, Web Design, WordPress, Internet Acquiring (Epay, Stripe, Robokassa, Kaspi), Rapid MVP Development (Hardware, Software), 3D Modeling, OpenCV, Machine Learning, Pentesting, Hydroponic Systems, UAV Development, Data Analysis, Firebase, Prototyping + more
-
+```
 <!---
 bytab/bytab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
