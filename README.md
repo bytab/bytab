@@ -21,9 +21,12 @@
 ---------------------------------------------------------------------------------------------------
 | Product Design - [User Research, Wireframing, Prototyping, UX/UI Design, Figma, Adobe XD]
 ---------------------------------------------------------------------------------------------------
-| Marketing - [Google Ads, YandexB-D, Digital Marketing, Content Creation, SEO, Email Marketing, Analytics, Branding, Market Research]
+| Marketing - [Google Ads, YandexB-D, Digital Marketing, Content Creation, SEO, Email Marketing,
+ Analytics, Branding, Market Research]
 #Additional skills
-UI/UX, Web Design, WordPress, Internet Acquiring (Epay, Stripe, Robokassa, Kaspi), Rapid MVP Development (Hardware, Software), 3D Modeling, OpenCV, Machine Learning, Pentesting, Hydroponic Systems, UAV Development, Data Analysis, Firebase, Prototyping + more
+UI/UX, Web Design, WordPress, Internet Acquiring (Epay, Stripe, Robokassa, Kaspi),
+ Rapid MVP Development (Hardware, Software), 3D Modeling, OpenCV, Machine Learning, Pentesting,
+Hydroponic Systems, UAV Development, Data Analysis, Firebase, Prototyping + more
 ```
 <!---
 bytab/bytab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
