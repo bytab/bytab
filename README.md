@@ -5,7 +5,11 @@
 - 📫 How to reach me: You can contact me via my LinkedIn or email.
 - 😄 Pronouns: He
 - ⚡ Fun fact: I’m an IT handyman, always ready to solve any tech challenge!
-- ![GitHub stars](https://img.shields.io/github/stars/bytab?style=social)
+- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thensystt/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alibekturgunov/)
+![Stay hungry, stay foolish](https://img.shields.io/badge/Stay_hungry,_stay_foolish-%23000000?style=for-the-badge&logoColor=white&color=white)
+
+
 
 ```bash
 
