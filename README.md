@@ -5,6 +5,8 @@
 - 📫 How to reach me: You can contact me via my LinkedIn or email.
 - 😄 Pronouns: He
 - ⚡ Fun fact: I’m an IT handyman, always ready to solve any tech challenge!
+- ![GitHub stars](https://img.shields.io/github/stars/bytab?style=social)
+
 ```bash
 
 #Core Skills
