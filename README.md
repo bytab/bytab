@@ -18,7 +18,8 @@
 | Hardware - [Arduino, Raspberry Pi, NVIDIA Jetson, ATmega, ESP32, STM32, ARM Cortex-M ]
 | Programming - [Dart, C/C++, Python (MicroPython/CircuitPython for Microcontrollers)]
 ---------------------------------------------------------------------------------------------------
-| Backend - [Dart, Python, JS, REST API, PostgreSQL, MySQL]
+| Backend stack: Python, FastAPI, Docker, SQLAlchemy, PostgreSQL, RabbitMQ, Redis, Celery, Alembic,
+Grafana,Promotheus
 | DevOps - [Docker, Nginx]
 | Mobile - [ Flutter ]
 ---------------------------------------------------------------------------------------------------
