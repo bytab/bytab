@@ -21,7 +21,6 @@
 | Backend stack: Python, FastAPI, Docker, SQLAlchemy, PostgreSQL, RabbitMQ, Redis, Celery, Alembic,
 Grafana,Promotheus
 | DevOps - [Docker, Nginx]
-| Mobile - [ Flutter ]
 ---------------------------------------------------------------------------------------------------
 | Frontend - [HTML, CSS, JavaScript]
 | Frameworks - [React, Bootstrap, Tailwind CSS]
