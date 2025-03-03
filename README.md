@@ -18,10 +18,6 @@
 | Hardware - [Arduino, Raspberry Pi, NVIDIA Jetson, ATmega, ESP32, STM32, ARM Cortex-M ]
 | Programming - [Dart, C/C++, Python (MicroPython/CircuitPython for Microcontrollers)]
 ---------------------------------------------------------------------------------------------------
-| Backend stack: Python, FastAPI, Docker, SQLAlchemy, PostgreSQL, RabbitMQ, Redis, Celery, Alembic,
-Grafana,Promotheus
-| DevOps - [Docker, Nginx]
----------------------------------------------------------------------------------------------------
 | Frontend - [HTML, CSS, JavaScript]
 | Frameworks - [React, Bootstrap, Tailwind CSS]
 ---------------------------------------------------------------------------------------------------
